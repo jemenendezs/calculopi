@@ -1,4 +1,4 @@
-# CalculaPi
+# CalculoPi
 
 Proyecto en Python para calcular cifras decimales de π usando algoritmos matemáticos avanzados y de alto rendimiento.
 
@@ -95,6 +95,6 @@ Este archivo contiene la cadena completa de π calculada.
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-## Autor
+## Notas
 
 Proyecto desarrollado en Python para explorar algoritmos avanzados de cálculo de π.
